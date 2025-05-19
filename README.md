@@ -135,3 +135,6 @@ Tools need to run via CLI
    `npm run build`
 7. Serve Laravel files:
    `php artisan serve`
+=======
+# Solutech-SDET
+>>>>>>> e717619a914323491d7ebceb355c25d95fa4535e
